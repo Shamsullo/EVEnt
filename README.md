@@ -1,5 +1,5 @@
 # EVEnt
-## A Landing Page for a mobile app EVEnt. 
+#### A Landing Page for a mobile app EVEnt. 
 ### Technologies used for this Project
 1. Python Django
 2. HTML5
