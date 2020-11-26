@@ -1,6 +1,13 @@
 # EVEnt
 A Landing Page for a mobile app EVEnt. 
-s
+### Technologies used for this Project
+1. Python Django
+2. HTML5
+3. CSS Bootstrap 4
+4. JavaScript jQuerry
+5. Heroku - cloud platform
+6. Figma for designing
+
 ### Steps to run the projects
 1. create a vitual environment, probably by:
 ```bash
@@ -14,7 +21,7 @@ source ./name_your_env/Scripts/activate
 ```bash
 pip install -r requirements.txt
 ```
-4. after that go to the latest_en/ecantus and the local server
+4. after that go to the EVEnt and the local server
 ```bash
 python manage.py runserver
 ```
