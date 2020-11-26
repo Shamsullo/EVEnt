@@ -1,5 +1,5 @@
 # EVEnt
-#### A Landing Page for a mobile app EVEnt. 
+#### EVEnt is a great looking responsive App Landing Page. The web page provides new users with detailed information about the functions, facilities and advantages of the EVEnt mobile application.
 ### Technologies used for this Project
 1. Python Django
 2. HTML5
