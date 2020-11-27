@@ -1,1 +1,1 @@
-web: gunicorn eventLanding.wsgi --log-file
+web: gunicorn eventLanding.wsgi --log-file -

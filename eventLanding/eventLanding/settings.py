@@ -25,7 +25,7 @@ SECRET_KEY = 'df-c@@*6mhl10)$y%h*)z%ey0&7fw*liexch5x61e#9biedqoi'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['event.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['eve-nt.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
