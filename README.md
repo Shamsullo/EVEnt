@@ -9,13 +9,15 @@
 6. Figma for designing
 
 ### Steps to run the projects
-1. Create a vitual environment, probably by:
+(By this stage you need to have python and pip installed)
+
+1. Create a vitual environment, by:
 ```bash
-pip vitrualenv name_your_env
+vitrualenv venv
 ```
-2. Activate it in the folder wher you name_your_env located in windows with bash:
+2. Activate it in the folder wher 'venv' located in windows with bash:
 ```bash
-source ./name_your_env/Scripts/activate
+source ./nvenv/Scripts/activate
 ```
 3. Then you need to install all the packages which is inside requirements.txt to your virtual environment. Make sure you are in the folder where requirements.txt saved
 ```bash
