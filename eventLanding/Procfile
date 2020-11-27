@@ -1,0 +1,1 @@
+web: gunicorn eventLanding.wsgi --log-file -
