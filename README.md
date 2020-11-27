@@ -21,7 +21,7 @@ source ./name_your_env/Scripts/activate
 ```bash
 pip install -r requirements.txt
 ```
-4. After that go to the EVEnt and the local server
+4. After that go to the eventLanding and the local server
 ```bash
 python manage.py runserver
 ```
