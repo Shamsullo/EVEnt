@@ -13,7 +13,7 @@
 
 1. Create a vitual environment, probably by:
 ```bash
-vitrualenv venv
+virtualenv venv
 ```
 2. Activate it in the folder wher 'venv' located in windows with bash:
 ```bash
