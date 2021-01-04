@@ -1,5 +1,9 @@
 # EVEnt
 #### EVEnt is a great looking responsive App Landing Page. The web page provides new users with detailed information about the functions, facilities and advantages of the EVEnt mobile application.
+
+### Link for a live dome: 
+https://event-live-demo.herokuapp.com/
+
 ### Technologies used for this Project
 1. Python Django
 2. HTML5
